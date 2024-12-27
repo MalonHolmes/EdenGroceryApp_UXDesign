@@ -1,4 +1,6 @@
 # Eden Grocery App - UX Design Project 🌱
+<img width="471" alt="Screenshot 2024-12-27 at 12 54 42 AM" src="https://github.com/user-attachments/assets/ee2d00d8-241f-4c70-bc1b-7523562b91cc" />
+
 ## Project Overview
 **Eden** is a Brand-New Grocery Shopping Platform for Everyday Customers that are looking for a *COMPLETE SHOPPING EXPERIENCE*, from the Front Door to Checkout!
 
