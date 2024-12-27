@@ -13,7 +13,7 @@ Design Here! 👇🏽
 - https://www.figma.com/design/4ICHapT0yA2iowEfezY3xt/%22Eden%22-Grocery-Shopping-App?node-id=302-1610&t=KHYI2IqxrF1o5c62-1
 
 ## Problem Statement - "What is the GOAL of your app?"
-Design a grocery store platform that provides not only a quick and seamless shopping experience, but also solves problems the customer didn't know they had...
+Design a grocery store platform that provides not only a quick and seamless shopping experience, but also solves problems that the customer didn't know they had...
 
 ## Value Proposition aka HERO feature - "What makes your app DIFFERENT?"
 - Shopping List Feature
