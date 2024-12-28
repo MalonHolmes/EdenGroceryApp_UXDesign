@@ -27,6 +27,11 @@ Design a grocery store platform that provides not only a quick and seamless shop
 - Intuitive User Experience and User Flow
 - Variety of Food Items
 
-
+## Skills Used
+- **User Research and Analysis** (Data Analytics, User Personas, etc.)
+- **Design Thinking Process** (Empathize, Define, Ideating, Prototype, Test)
+- **UX Design Fundamentals** (User flows, journey mapping, wireframes, etc.)
+- **Visual Design & Design Principles** (Color theory, Layout, Typography, etc.)
+- **Tools** (Figma, Google Workspace, etc.)
 
 
